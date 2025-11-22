@@ -18,7 +18,7 @@ The replication successfully reproduced the findings of the original paper, with
 | Decision Tree | 94% | 0.941 | Moderate |
 | Logistic Regression | 92% | 0.888 | Low |
 
-![ROC Curve Comparison](roc_results.png)
+![ROC Curve Comparison](roc_curves.png)
 
 ## 🛠️ Technical Approach
 * **Preprocessing:** Range transformation (0-1 scaling) and manual feature selection based on collinearity analysis (removing redundant spatial features).
